@@ -5,7 +5,7 @@
 ---
 
 
-### Junior C# .NET Developer @Projekte&WarenwirtschaftGmbH :
+### Junior C# .NET Developer @Projekte&WarenwirtschaftGmbH 
 
 ---
 
