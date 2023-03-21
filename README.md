@@ -11,9 +11,9 @@
 - 🎓: IT-Systems-Management (IHK)
 
 ### 🕒 Freetime Project Highlights :
-- 🎮: Python Realtime Obejct Detection in Games
-- ⚙️: ESP32 IoT Programming with .NET & Nanoframework
-- ⚡: Full-automatic Crypto Trading Bot based on Coinbase REST Api
+- 🎮: Python realtime object detection in Games
+- ⚙️: ESP32 IoT programming with .NET & Nanoframework
+- ⚡: Full-automatic Crypto trading Bot based on Coinbase REST Api
 - ..... 
 
 ---
