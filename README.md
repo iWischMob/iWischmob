@@ -13,7 +13,7 @@
 ### 🕒 Freetime Project Highlights :
 - 🎮: Python realtime object detection in Games
 - ⚙️: ESP32 IoT programming with .NET & Nanoframework
-- ⚡: Full-automatic Crypto trading Bot based on Coinbase REST Api
+- ⚡: Fully automated crypto trading bot based on Coinbase REST API.
 - ..... 
 
 ---
