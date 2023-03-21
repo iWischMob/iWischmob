@@ -3,11 +3,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
 ---
 
+### 👨‍💻: About Me :
+- 🧑‍💼: C# .NET Developer at Projekte & Warenwirtschaft GmbH
+- 📍: Saarland (Germany)
+- 🎓: IT-Systems-Management (IHK)
 
-###  C# .NET Developer @Projekte&WarenwirtschaftGmbH 
+### ::Freetime Projects :
+- 🎮: Python Realtime Obejct Detection in Games
+- ⚙️: ESP32 IoT Programming with .NET & Nanoframework
+- ⚡: Full-automatic Crypto Trading based on Coinbase REST Api
+- ..... 
 
 ---
 
