@@ -10,7 +10,7 @@
 - 📍: Saarland (Germany)
 - 🎓: IT-Systems-Management (IHK)
 
-### ::Freetime Projects :
+### :🕒: Freetime Projects :
 - 🎮: Python Realtime Obejct Detection in Games
 - ⚙️: ESP32 IoT Programming with .NET & Nanoframework
 - ⚡: Full-automatic Crypto Trading based on Coinbase REST Api
