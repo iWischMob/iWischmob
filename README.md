@@ -30,7 +30,7 @@
 
 </div>
 
-### 🧭: exploring :
+### 🧭 exploring :
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
