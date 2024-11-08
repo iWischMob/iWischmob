@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me :
-- 🧑‍💼: Business Software Developer @ReglerSystemsGmbH
+- 🧑‍💼: Software Developer @ReglerSystemsGmbH
 - 📍: Saarland (Germany)
 - 🎓: IT-Systems-Management (IHK)
 
@@ -14,6 +14,7 @@
 - 🎮: Python realtime object detection in Games
 - ⚙️: ESP32 IoT programming with .NET & Nanoframework
 - ⚡: Fully automated crypto trading bot based on Coinbase REST API.
+- ⚡: Neural Network for Rank Prediction in League of Legends
 - ..... 
 
 ---
