@@ -11,7 +11,7 @@
 - 🎓: IT-Systems-Management (IHK)
 
 ### 🕒 Freetime Project Highlights :
-- 🎮: Python realtime object detection in Games (Good Working)
+- 🎮: Python realtime object detection in Games (Functional)
 - ⚙️: ESP32 IoT programming with .NET & Nanoframework (Educational)
 - ⚡: Fully automated crypto trading bot based on Coinbase REST API.(Educational)
 - ⚡: Neural Network for Rank Prediction in League of Legends(Educational, ca. 50% Accuracy)
