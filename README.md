@@ -8,40 +8,50 @@
 ### 👨‍💻 About Me :
 - 🧑‍💼: Software Developer @ReglerSystemsGmbH
 - 📍: Saarland (Germany)
-- 🎓: IT-Systems-Management (IHK)
+- 🎓: IT Systems Management (IHK)
+- 🧠: Several years of professional experience with strong project management and consulting skills
 
 ### 🕒 Freetime Project Highlights :
-- 🎮: Python realtime object detection in Games (Functional)
-- ⚙️: ESP32 IoT programming with .NET & Nanoframework (Educational)
-- ⚡: Fully automated crypto trading bot based on Coinbase REST API.(Educational)
-- ⚡: Neural Network for Rank Prediction in League of Legends(Educational, approximately 49% accuracy)
-- ..... 
+- 🎮: Real-time object detection for gameplay analysis (prototype)
+- ⚙️: ESP32 IoT prototyping with .NET nanoFramework
+- ⚡: Automated crypto trading bot (research project)
+- 🧠: Rank-prediction model for competitive gaming (experimental)
+- .....
 
 ---
 
-
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="left">
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="XAMARIN" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-
+  <!-- Icons only for official devicon logos -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
 
 </div>
 
-### 🧭 exploring :
+<br/>
+
+<!-- Clean text badges for items without an official devicon icon or generic logo -->
+<div align="left">
+  <code>Entity Framework</code> &nbsp;•&nbsp; <code>SQL</code> &nbsp;•&nbsp; <code>.NET MAUI</code>
+</div>
+
+---
+
+### 🧭 Exploring :
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
 
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="coding GIF"/>
 </div>
