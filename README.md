@@ -11,8 +11,8 @@
 - 🎓: IT Systems Management (IHK)
 - 🧠: Several years of professional experience with strong project management and consulting skills
 
-### 🕒 Freetime Project Highlights :
-- 🎮: Real-time object detection for gameplay analysis (prototype)
+### 🕒 Freetime Project Highlights over the last years:
+- 🎮: Real-time object detection for automation in videogames (prototype)
 - ⚙️: ESP32 IoT prototyping with .NET nanoFramework
 - ⚡: Automated crypto trading bot (research project)
 - 🧠: Rank-prediction model for competitive gaming (experimental)
@@ -40,17 +40,7 @@
   <code>Entity Framework</code> &nbsp;•&nbsp; <code>SQL</code> &nbsp;•&nbsp; <code>.NET MAUI</code>
 </div>
 
----
 
-### 🧭 Exploring :
-<div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-
-</div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="coding GIF"/>
